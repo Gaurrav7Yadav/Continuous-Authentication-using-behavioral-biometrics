@@ -1,5 +1,5 @@
 # Continuous-Authentication-using-behavioral-biometrics
-##Data Collection
+## Data Collection
 
 There was't any dataset present of keystroke patterns so build standalone desktop application to collect keystrokes from users. The create a typing pattern used calculated 3 different type of timings for each key pressed.
 
