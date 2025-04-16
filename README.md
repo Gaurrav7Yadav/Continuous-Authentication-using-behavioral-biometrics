@@ -1,4 +1,4 @@
-# 🔐 Behavioral Biometrics for Continuous Authentication
+# Behavioral Biometrics for Continuous Authentication
 
 A secure, machine learning–driven system that continuously authenticates users based on their behavioral patterns (e.g., keystroke dynamics, mouse movements), ensuring real-time protection throughout a session.
 
